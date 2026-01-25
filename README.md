@@ -1,26 +1,61 @@
-#🏎️ F1 Standings UI Simulator
+🏎️ F1 Standings UI Simulator
 
-A React-based UI project that displays Formula 1 team and driver standings in a clean, interactive layout.
-##⚠️ Important: This project does not use any API. All data is static, hardcoded, and will not update automatically.
+A React + Vite based UI-only project that displays Formula 1 teams, drivers, and standings in a clean and interactive layout.
 
+⚠️ Important Notice
+
+This project does NOT use any API.
+
+All data is static and hardcoded
+
+Standings will not update automatically
+
+The purpose of this project is UI design & React practice only
+
+If you’re looking for live F1 data, this project is not meant for that.
+
+✨ Features
+
+Driver standings (2026 – all points set to zero)
+
+Team-wise driver mapping
+
+Team colors & car images
+
+Clean UI built with Tailwind CSS
+
+Component-based React structure
+
+📁 Project Structure
 src/
 ├─ data/
-│  ├─ calender.js  
-│  ├─ drivers.js 
-│  ├─ standings.js 
-│  ├─ teams.js        
+│  ├─ calendar.js
+│  ├─ drivers.js
+│  ├─ standings.js
+│  └─ teams.js
+│
 ├─ pages/
-│  ├─ Standings.jsx 
-│  ├─ Drivers.jsx 
-│  ├─ Home.jsx  
-│  ├─ Calendar.jsx 
-│  ├─ Teams.jsx  
+│  ├─ Home.jsx
+│  ├─ Standings.jsx
+│  ├─ Drivers.jsx
+│  ├─ Teams.jsx
+│  └─ Calendar.jsx
+│
 ├─ components/
-│  ├─ Navbar.jsx
+│  └─ Navbar.jsx
+│
 ├─ App.jsx
-├─ index.jsx
+└─ main.jsx
 
+🛠 Tech Stack
 
+React
+
+Vite
+
+Tailwind CSS
+
+JavaScript (ES6+)
 
 
 
