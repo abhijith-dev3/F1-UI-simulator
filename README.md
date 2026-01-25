@@ -1,3 +1,32 @@
+#🏎️ F1 Standings UI Simulator
+
+A React-based UI project that displays Formula 1 team and driver standings in a clean, interactive layout.
+##⚠️ Important: This project does not use any API. All data is static, hardcoded, and will not update automatically.
+
+src/
+├─ data/
+│  ├─ calender.js  
+│  ├─ drivers.js 
+│  ├─ standings.js 
+│  ├─ teams.js        
+├─ pages/
+│  ├─ Standings.jsx 
+│  ├─ Drivers.jsx 
+│  ├─ Home.jsx  
+│  ├─ Calendar.jsx 
+│  ├─ Teams.jsx  
+├─ components/
+│  ├─ Navbar.jsx
+├─ App.jsx
+├─ index.jsx
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
