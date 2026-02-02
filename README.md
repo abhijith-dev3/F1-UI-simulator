@@ -1,4 +1,4 @@
-🏎️ F1 Standings UI Simulator [DEMO]:(https://f1-ui-simulator.netlify.app/)
+🏎️ F1 Standings UI Simulator [DEMO](https://f1-ui-simulator.netlify.app/)
 
 A React + Vite based UI-only project that displays Formula 1 teams, drivers, and standings in a clean and interactive layout.
 
